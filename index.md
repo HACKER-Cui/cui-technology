@@ -1,4 +1,4 @@
-## enpowered by CHR 乱攻击服务器者会遭到五雷轰顶
+## empowered by CHR 乱攻击服务器者会遭到五雷轰顶
 
 You can use the [editor on GitHub](https://github.com/HACKER-Cui/cui-technology/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
