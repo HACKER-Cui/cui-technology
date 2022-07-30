@@ -1,5 +1,4 @@
-## empowered by CHR 乱攻击服务器者会遭到五雷轰顶
-
+## empowered by CHR 垃圾转运小车指定网页
 You can use the [editor on GitHub](https://github.com/HACKER-Cui/cui-technology/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
